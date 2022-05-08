@@ -9,3 +9,5 @@
 
 * The screenshot below shows I used the "scp" command using the alias above
 <img width="1256" alt="Screen Shot 2022-05-08 at 11 09 25" src="https://user-images.githubusercontent.com/91580944/167309503-718d8c8e-0b42-48aa-aa9c-453834b5c0ae.png">
+
+## Group choice 2 - Set up Github Access from ieng6

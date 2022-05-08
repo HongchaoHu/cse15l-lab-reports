@@ -1,4 +1,4 @@
-# CSE 15l lab report 2 Hongchao Hu
+# CSE 15l lab report 3 Hongchao Hu
 
 ## Group choice 1 - Streamlining ssh Configuration:
 

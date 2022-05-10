@@ -29,5 +29,15 @@
 
 ## Group choice 3 - Copy whole directories with scp -r
 
-* There is a bug for this step that kep telling me permission denied when trying to scp
-<img width="1512" alt="Screen Shot 2022-05-08 at 12 28 01" src="https://user-images.githubusercontent.com/91580944/167312524-a0d0cf64-0a1c-493e-8537-8ddc0b87c42e.png">
+* The screenshots below showed I use scp -r to copy markdownparse to ieng6 account
+<img width="1512" alt="Screen Shot 2022-05-10 at 14 53 45" src="https://user-images.githubusercontent.com/91580944/167730433-82949e60-7591-4c45-b4f0-109a9f21bea7.png">
+
+<img width="1512" alt="Screen Shot 2022-05-10 at 14 53 47" src="https://user-images.githubusercontent.com/91580944/167730442-3b6da79a-f342-4204-970e-bc0647341903.png">
+
+* The screenshots below showed I compiling and running markdownparse tests in ieng6 account
+<img width="1512" alt="Screen Shot 2022-05-10 at 15 12 45" src="https://user-images.githubusercontent.com/91580944/167730559-efdfc60e-4e26-4172-90d9-ff4753ab36e3.png">
+
+<img width="1512" alt="Screen Shot 2022-05-10 at 15 16 09" src="https://user-images.githubusercontent.com/91580944/167730675-aed2f2ab-b583-49f5-874a-b3f2bc4a702f.png">
+
+* The screenshot below shows I combining "scp", ";" and "ssh" to copy the directory and run the file in one line
+<img width="1512" alt="Screen Shot 2022-05-10 at 15 30 10" src="https://user-images.githubusercontent.com/91580944/167732319-1681205a-fc5d-438c-96fd-3eee0623064f.png">

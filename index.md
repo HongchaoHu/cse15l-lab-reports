@@ -8,3 +8,6 @@
 
 ## Lab report 3:
 [webpage](https://github.com/HongchaoHu/cse15l-lab-reports/blob/main/lab-report-3-week-6.md)
+
+## Lab report 3:
+[webpage](https://github.com/HongchaoHu/cse15l-lab-reports/blob/main/lab-report-4-week-8.md)

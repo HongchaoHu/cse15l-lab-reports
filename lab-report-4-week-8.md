@@ -1,6 +1,6 @@
 # CSE 15l lab report 3 Hongchao Hu
 
-## [My Repository](https://github.com/Aaron3963/MarkdownParser)
+## [My Repository](https://github.com/HongchaoHu/markdown-parser)
 ## [Reviewed Repository](https://github.com/ohuynh21/markdown-parser)
 
 ## Test case for my markdown-parse file for snippet 1 to 3:

@@ -1,5 +1,8 @@
 # CSE 15l lab report 3 Hongchao Hu
 
+## [My Repository](https://github.com/Aaron3963/MarkdownParser)
+## [Reviewed Repository](https://github.com/ohuynh21/markdown-parser)
+
 ## Test case for my markdown-parse file for snippet 1 to 3:
 
 <img width="744" alt="Screen Shot 2022-05-22 at 12 02 42" src="https://user-images.githubusercontent.com/91580944/169711668-1a328e17-e46b-40f9-acd5-cc8132f0d894.png">

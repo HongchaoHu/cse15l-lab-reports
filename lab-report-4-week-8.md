@@ -3,11 +3,11 @@
 ## [My Repository](https://github.com/HongchaoHu/markdown-parser)
 ## [Reviewed Repository](https://github.com/ohuynh21/markdown-parser)
 
-## Expect output for snippet 1 to 3:
+## Expect output screenshots for snippet 1 to 3:
 
 <img width="599" alt="Screen Shot 2022-05-22 at 12 25 51" src="https://user-images.githubusercontent.com/91580944/169712524-4eaf50db-b370-4f02-9303-39b3aeee4bc3.png">
 
-## Test case for my markdown-parse file for snippet 1 to 3:
+## Test case screenshots for my markdown-parse file for snippet 1 to 3:
 
 <img width="744" alt="Screen Shot 2022-05-22 at 12 02 42" src="https://user-images.githubusercontent.com/91580944/169711668-1a328e17-e46b-40f9-acd5-cc8132f0d894.png">
 
@@ -15,7 +15,7 @@
 
 <img width="743" alt="Screen Shot 2022-05-22 at 12 03 11" src="https://user-images.githubusercontent.com/91580944/169711678-e0b70415-2d04-4a7d-b67f-100ce7dceb1e.png">
 
-## Test case for the reviewed markdown-parse file from week 7 for snippet 1 to 3:
+## Test case screenshots for the reviewed markdown-parse file from week 7 for snippet 1 to 3:
 
 
 <img width="752" alt="Screen Shot 2022-05-22 at 12 08 08" src="https://user-images.githubusercontent.com/91580944/169711779-741f97ac-cbad-46d7-b12a-e82540f27847.png">
@@ -24,11 +24,11 @@
 
 <img width="760" alt="Screen Shot 2022-05-22 at 12 08 25" src="https://user-images.githubusercontent.com/91580944/169711804-89ecd82d-47fe-40e1-a142-f636c4ae2e30.png">
 
-## Test result for my markdown-parse file:
+## Test result screenshots for my markdown-parse file:
 
 <img width="1026" alt="Screen Shot 2022-05-22 at 12 50 34" src="https://user-images.githubusercontent.com/91580944/169713380-a07e83c2-5267-435c-a0a8-b6f4ccbbe5c9.png">
 
-## Test result for the reviewed markdown-parse file:
+## Test result screenshots for the reviewed markdown-parse file:
 
 <img width="911" alt="Screen Shot 2022-05-22 at 12 51 15" src="https://user-images.githubusercontent.com/91580944/169713393-d18f55dd-3bf3-40af-bf6e-166e89b76280.png">
 

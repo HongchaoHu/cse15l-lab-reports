@@ -7,6 +7,9 @@ How you found the tests with different results (Did you use vimdiff on the resul
 * I found the test case # 489 and test case # 201 are very different from my usual tester I ran before so I used the vimdiff to comfirm my code did not pass those two tests. I initially thought the case #489 will work fine for my code since I encountered the similar tester case for my lab report 4 that also has the newliner problem. For the test case # 201, it appears that the "()" ordering may cause problem since my markdown parser only detect the content between "()". In this file, the space between the name and the link will mess up the algorithm. Then I did the vimdiff below.
 
 
+    <img width="441" alt="Screen Shot 2022-06-05 at 11 03 55" src="https://user-images.githubusercontent.com/91580944/172064120-f127b736-dffd-4513-bf23-bc86c72db3bf.png">
+
+
     [#489](https://github.com/nidhidhamnani/markdown-parser/edit/main/test-files/489.md):
     
     <img width="335" alt="Screen Shot 2022-06-03 at 11 25 42" src="https://user-images.githubusercontent.com/91580944/171924315-0e387f32-25f7-4926-ae5e-5377daa0756a.png">
@@ -21,8 +24,8 @@ How you found the tests with different results (Did you use vimdiff on the resul
 
     [#201](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md?plain=1):
     
-    <img width="290" alt="Screen Shot 2022-06-03 at 11 25 29" src="https://user-images.githubusercontent.com/91580944/171924260-97a042de-5df8-43c3-97cb-444d2057324d.png">
     <img width="278" alt="Screen Shot 2022-06-03 at 11 25 36" src="https://user-images.githubusercontent.com/91580944/171924283-cb530032-05bc-40c5-a060-4ead9395f131.png">
+    <img width="290" alt="Screen Shot 2022-06-03 at 11 25 29" src="https://user-images.githubusercontent.com/91580944/171924260-97a042de-5df8-43c3-97cb-444d2057324d.png">
     
     For this test case, the answer should be empty. There are two pair's of "()" and one "[]", the problem is whihinthe ordering of those pair: my code mistakenly combine the first line's second "()" with the second line's "[]" and create the false link. My solution to fix this bug is to set up a condition statement that check is the "(" exactly one index after the "]". If the format passed the condition, continue the process as usual; if not, skip the current process and go to the next "[".
     
